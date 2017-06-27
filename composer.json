@@ -1,0 +1,16 @@
+{
+    "name": "piotrbelina/kwotaslownie",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Piotr Belina",
+            "email": "me@piotrbelina.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
